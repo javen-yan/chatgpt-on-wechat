@@ -302,6 +302,7 @@ class PluginManager:
             "BANWORDS",
             "FINISH",
             "DUNGEON",
+            "SOUPAN"
         ]:
             return False, "预置插件无法更新，请更新主程序仓库"
         dirname = self.plugins[name].path

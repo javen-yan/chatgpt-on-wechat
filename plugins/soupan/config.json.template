@@ -1,0 +1,8 @@
+{
+  "soupan_uri": "https://www.esoua.com:3001/v2/ali/search",
+  "soupan_check_uri": "https://www.esoua.com:3001/v2/ali/checkLink2",
+  "soupan_auth": {
+    "user": "",
+    "password": ""
+  }
+}
